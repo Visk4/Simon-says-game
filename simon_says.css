@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    /* background-image:url("back.jpg");
+    background-size: cover; */
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    border: 8px solid black;
+    height: 180px;
+    width: 180px;
+    border-radius: 15px;
+    margin:1.3rem
+}
+.red{
+    background-color: rgb(243, 63, 63);
+}
+.teal{
+    background-color: rgb(3, 145, 145);
+}
+.orange{
+    background-color: rgb(244, 170, 66);
+}
+.violet{
+    background-color: blueviolet;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(50, 229, 59);
+}
+h2{
+    position: absolute;
+    top: 50px;
+    right: 80px;
+}
